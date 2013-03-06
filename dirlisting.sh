@@ -1,5 +1,5 @@
 #!/bin/bash
-PROJ="/home/mangesh/webserver"
+PROJ="/home/atul/clone"
 
 for d in `ls -d $PROJ/*`; do
 	cd "$d"
